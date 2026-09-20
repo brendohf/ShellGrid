@@ -4,9 +4,8 @@ A simple way to run and organize multiple terminals in one window.
 
 ## Demo
 
-<video src="https://github.com/brendohf/ShellGrid/releases/download/v1.0.0/demo.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/b57023ed-e110-4d9d-b832-ee14dc11dc40
 
-[Watch the demo](https://github.com/brendohf/ShellGrid/releases/download/v1.0.0/demo.mp4)
 
 ## Why it exists
 
