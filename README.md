@@ -46,7 +46,7 @@ The whole app is a single ~5 MB program that starts quickly and uses little memo
 
 ## Download
 
-Get **ShellGrid_2.0.0_x64-setup.exe** from the [Releases](../../releases) page and run it. It installs just for your user, with no admin rights needed.
+Get the latest **ShellGrid_&lt;version&gt;_x64-setup.exe** from the [Releases](../../releases/latest) page and run it. It installs just for your user, with no admin rights needed.
 
 Requires Windows with WebView2 (built into Windows 11). To use the agent features, have Claude Code or Codex installed and signed in.
 
