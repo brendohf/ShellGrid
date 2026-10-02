@@ -5,6 +5,12 @@ agents to work in them while you watch.
 
 ## Demo
 
+**New in 2.0: Claude sending agents to ShellGrid.** One request, a grid of agents, each with its own task.
+
+https://github.com/user-attachments/assets/96ae76a1-819a-47ba-b1b4-8d530d48ec65
+
+**Organizing terminals**
+
 https://github.com/user-attachments/assets/b57023ed-e110-4d9d-b832-ee14dc11dc40
 
 
